@@ -1,11 +1,11 @@
 backend:
-  name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  name: github
+  
   repo: eddilols/car-rent-test
   site_domain: https://regal-concha-4ab770.netlify.app/
   base_url: https://api.netlify.com
   auth_endpoint: auth
-  
+
 media_folder: "images/uploads" 
 public_folder: "/images/uploads"
 
