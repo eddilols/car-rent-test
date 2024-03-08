@@ -1,5 +1,6 @@
 backend:
-   name: github
+  name: github
+  repo: eddilols/car-rent-test
   branch: main # Branch to update (optional; defaults to master)
   
 media_folder: "images/uploads" 
